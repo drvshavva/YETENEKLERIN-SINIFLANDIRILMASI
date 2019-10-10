@@ -1,0 +1,1589 @@
+,skill,label,ilan_no
+0,html,web_tasarim,0
+1, javascript,web_tasarim,0
+2, jquery,web_tasarim,0
+3, github,web_tasarim,0
+4, photoshop illustrator,web_tasarim,0
+5,wordpress,web_tasarim,1
+6, mysql,web_tasarim,1
+7, html,web_tasarim,1
+8, javascript,web_tasarim,1
+9,raporlama,web_tasarim,2
+10, veri analizi,web_tasarim,2
+11,office programlari,web_tasarim,2
+12,ekip calismasi,web_tasarim,2
+13, google analytics,web_tasarim,2
+14,wordpress,web_tasarim,3
+15, mysql,web_tasarim,3
+16, html,web_tasarim,3
+17, digital pazarlama,web_tasarim,3
+18,analitik dusunen,web_tasarim,4
+19, html,web_tasarim,4
+20, angular,web_tasarim,4
+21, jquery,web_tasarim,4
+22, fronted development,web_tasarim,4
+23, bootstrap,web_tasarim,4
+24, react,web_tasarim,4
+25, photoshop,web_tasarim,4
+26,react,web_tasarim,5
+27, javascript,web_tasarim,5
+28,fronted developer,web_tasarim,6
+29, html,web_tasarim,6
+30, javascript,web_tasarim,6
+31, jquery,web_tasarim,6
+32, bootstrap,web_tasarim,6
+33,html,web_tasarim,7
+34, photoshop,web_tasarim,7
+35, iletisimi kuvvetli,web_tasarim,7
+36,veri tabani,web_tasarim,8
+37, core angular,web_tasarim,8
+38, node elasticsearch,web_tasarim,8
+39, scrum,web_tasarim,8
+40,html ,web_tasarim,9
+41, jquery,web_tasarim,9
+42, javascript,web_tasarim,9
+43, bootstrap,web_tasarim,9
+44, smarty twig blade,web_tasarim,9
+45, hosting,web_tasarim,9
+46, photoshop sketch,web_tasarim,9
+47, fronted developer,web_tasarim,9
+48,javascript,web_tasarim,10
+49, jquery,web_tasarim,10
+50, html,web_tasarim,10
+51, mysql,web_tasarim,10
+52, webapi,web_tasarim,10
+53,sketch invision adobe photoshop adobe illustrator,web_tasarim,11
+54, analitik dusunen,web_tasarim,11
+55, birden fazla is yuruten,web_tasarim,11
+56, ekip calismasi,web_tasarim,11
+57,html,web_tasarim,12
+58, react native,web_tasarim,12
+59, mysql,web_tasarim,12
+60, javascript,web_tasarim,12
+61,grafik tasarim,web_tasarim,13
+62,html,web_tasarim,14
+63, javascript,web_tasarim,14
+64, bootstrap,web_tasarim,14
+65, angularjs,web_tasarim,14
+66, grunt gulp,web_tasarim,14
+67,html,web_tasarim,15
+68, jquery,web_tasarim,15
+69, responsive design,web_tasarim,15
+70, ingilizce,web_tasarim,15
+71, ekip calismasi,web_tasarim,15
+72, digital pazarlama,web_tasarim,15
+73, arastirmayi seven,web_tasarim,15
+74, isletim sistemleri,web_tasarim,15
+75, hosting domain yonetimi,web_tasarim,15
+76,raporlam,web_tasarim,16
+77, gorsel gucu yuksek,web_tasarim,16
+78, sosyal medya,web_tasarim,16
+79, html,web_tasarim,16
+80, javascript,web_tasarim,16
+81, mysql,web_tasarim,16
+82, google analytics,web_tasarim,16
+83, responsive mobil tasarim,web_tasarim,16
+84, image editor,web_tasarim,16
+85, html ,web_tasarim,17
+86,javascript ,web_tasarim,17
+87,bootstrap ,web_tasarim,17
+88,jquery ,web_tasarim,17
+89,ticaret sitesi yonetimi,web_tasarim,17
+90, mysql,web_tasarim,17
+91, ajax json,web_tasarim,17
+92,grafik tasarim,web_tasarim,18
+93,  html ,web_tasarim,18
+94,bootstrap,web_tasarim,18
+95, wordpress,web_tasarim,18
+96, mobile responsive,web_tasarim,18
+97, adobe dreamweaver,web_tasarim,18
+98, photoshop illustrator indesign after effects,web_tasarim,18
+99, ekip calismasi,web_tasarim,18
+100, ticaret,web_tasarim,18
+101, ingilizce,web_tasarim,18
+102,sorumluluk sahibi,web_tasarim,19
+103, python django ,web_tasarim,19
+104, linux gentoo ubuntu ,web_tasarim,19
+105, mysql ,web_tasarim,19
+106,postgresql,web_tasarim,19
+107,proxy sunucularina hakimiyet ,web_tasarim,19
+108, github,web_tasarim,19
+109, raporlama,web_tasarim,19
+110,html ,web_tasarim,20
+111,jquery,web_tasarim,20
+112, responsive design,web_tasarim,20
+113, wordpress ,web_tasarim,20
+114, video icerik olusturabilme,web_tasarim,20
+115, isletim sistemleri,web_tasarim,20
+116, gorsel duzenleme,web_tasarim,20
+117, digital pazarlama,web_tasarim,20
+118, tasarim,web_tasarim,20
+119,html ,web_tasarim,21
+120,javascript,web_tasarim,21
+121, ingilizce,web_tasarim,21
+122, site tasarimi,web_tasarim,21
+123, sosyal medya,web_tasarim,21
+124, iletisimi kuvvetli,web_tasarim,21
+125, office programlari,web_tasarim,21
+126,react ,web_tasarim,22
+127,redux,web_tasarim,22
+128, javascript,web_tasarim,22
+129,analitik dusunebilen ,web_tasarim,22
+130, ingilizce,web_tasarim,22
+131, sorumluluk sahibi,web_tasarim,22
+132, kendini gelistiren,web_tasarim,22
+133,fronted developer,web_tasarim,23
+134,angular,web_tasarim,23
+135, javascript,web_tasarim,23
+136, jquery,web_tasarim,23
+137, bootstrap,web_tasarim,23
+138,html,web_tasarim,23
+139, zeplin,web_tasarim,23
+140,tasarim,web_tasarim,24
+141, html,web_tasarim,24
+142, javascript,web_tasarim,24
+143,html,web_tasarim,25
+144, javascript,web_tasarim,25
+145, jquery,web_tasarim,25
+146,ingilizce,web_tasarim,25
+147, veri tabani,web_tasarim,25
+148, sorumluluk sahibi,web_tasarim,25
+149, analitik dusunen,web_tasarim,25
+150,dokumantasyon,web_tasarim,26
+151,  raporlama,web_tasarim,26
+152, full stack developer,web_tasarim,26
+153, nesneye dayali kodlama,web_tasarim,26
+154,microsoft entity framework,web_tasarim,26
+155,  design patterns,web_tasarim,26
+156,html,web_tasarim,26
+157, javascript,web_tasarim,26
+158,  jquery ,web_tasarim,26
+159,angularjs ,web_tasarim,26
+160,ajax,web_tasarim,26
+161,responsive design framework,web_tasarim,26
+162,mysql ,web_tasarim,26
+163,mssql ,web_tasarim,26
+164,mongo,web_tasarim,26
+165,ingilizce,web_tasarim,27
+166,javascript ,web_tasarim,27
+167,html ,web_tasarim,27
+168,bootstrap,web_tasarim,27
+169,google analytics,web_tasarim,28
+170,responsive adaptive tasarim,web_tasarim,28
+171,wordpress,web_tasarim,28
+172, html ,web_tasarim,28
+173,javascript,web_tasarim,28
+174,cpanel plesk hosting ,web_tasarim,28
+175,visual studio ,web_tasarim,29
+176,photoshop coreldraw,web_tasarim,29
+177,grafiksel analiz tasarim ,web_tasarim,29
+178,ingilizce,web_tasarim,29
+179, sorumluluk sahibi,web_tasarim,29
+180, ,web_tasarim,29
+181, veritabani ,web_tasarim,30
+182, html,web_tasarim,30
+183, javascript,web_tasarim,30
+184, jquery,web_tasarim,30
+185, bootstrap,web_tasarim,30
+186,guler yuzlu,web_tasarim,30
+187,bulut ,web_tasarim,31
+188,tsql ,web_tasarim,31
+189,jquery,web_tasarim,31
+190,  yorum satiri yazan,web_tasarim,31
+191,ingilizce,web_tasarim,31
+192,html ,web_tasarim,32
+193,javascript,web_tasarim,32
+194, jquery,web_tasarim,32
+195, bootstrap ,web_tasarim,32
+196,analitik dusunme,web_tasarim,32
+197,yazili sozlu iletisim becerileri gelismis,web_tasarim,32
+198,ekip calismasi,web_tasarim,32
+199, postgresql,web_tasarim,32
+200, mysql,web_tasarim,32
+201,visual studio ,web_tasarim,33
+202,veri tabani,web_tasarim,34
+203, nesneye dayali kodlama,web_tasarim,34
+204, muhasebe,web_tasarim,34
+205, finans,web_tasarim,34
+206, ingilizce,web_tasarim,34
+207, tecrubeli,web_tasarim,34
+208,html,web_tasarim,35
+209, json,web_tasarim,35
+210,bootstrap ,web_tasarim,35
+211,linux,web_tasarim,35
+212, kendini gelistiren,web_tasarim,35
+213,veri tabani,web_tasarim,36
+214, ekip calismasi,web_tasarim,36
+215,python,web_tasarim,37
+216, react,web_tasarim,37
+217, kendini gelistiren,web_tasarim,37
+218, inglizce,web_tasarim,37
+219, raporlama,web_tasarim,37
+220,django,web_tasarim,37
+221, laravel ,web_tasarim,37
+222,javascript,web_tasarim,37
+223,ticaret,web_tasarim,38
+224, html,web_tasarim,38
+225, javascript,web_tasarim,38
+226, mysql,web_tasarim,38
+227, jquery,web_tasarim,38
+228, ajax,web_tasarim,38
+229, json,web_tasarim,38
+230, angular,web_tasarim,38
+231, cpanel plesk hosting,web_tasarim,38
+232,google analystics,web_tasarim,38
+233, ingilizce,web_tasarim,38
+234, kendini gelistiren,web_tasarim,38
+235, cozum odakli,web_tasarim,38
+236,html,web_tasarim,39
+237, frontend ,web_tasarim,39
+238,html,web_tasarim,39
+239, ajax,web_tasarim,39
+240,typescript ,web_tasarim,39
+241,sass,web_tasarim,39
+242, less processor ,web_tasarim,39
+243,java ,web_tasarim,39
+244,kotlin server,web_tasarim,39
+245,photoshop illustrator,web_tasarim,40
+246, mysql,web_tasarim,40
+247, javascript,web_tasarim,40
+248, ajax,web_tasarim,40
+249, jquery,web_tasarim,40
+250, html,web_tasarim,40
+251, bootstrap,web_tasarim,40
+252,html,web_tasarim,41
+253, mysql,web_tasarim,41
+254, ingilizce,web_tasarim,41
+255, analitik dusunen,web_tasarim,41
+256, iletisim becerilerine sahip,web_tasarim,41
+257,  linux centos ,web_tasarim,41
+258,json,web_tasarim,41
+259,guvenlik,web_tasarim,41
+260,html,web_tasarim,42
+261, json,web_tasarim,42
+262,bootstrap ,web_tasarim,42
+263,jquery,web_tasarim,42
+264, angular,web_tasarim,42
+265,google analystics,web_tasarim,42
+266,cpanel plesk hosting,web_tasarim,42
+267,adobe photoshop,web_tasarim,42
+268,ingilizce,web_tasarim,42
+269, veri tabani,web_tasarim,42
+270, guler yuzlu,web_tasarim,42
+271,frontend,web_tasarim,43
+272, javascript,web_tasarim,43
+273, angular,web_tasarim,43
+274, ingilizce,web_tasarim,43
+275, html,web_tasarim,43
+276, bitbucket ,web_tasarim,43
+277, ajax,web_tasarim,43
+278, makine ogrenmesi,web_tasarim,43
+279, derin ogrenme,web_tasarim,43
+280,java ,web_tasarim,43
+281,python ,web_tasarim,43
+282,django,web_tasarim,43
+283,  google cloud,web_tasarim,43
+284,javascript,web_tasarim,44
+285, jquery,web_tasarim,44
+286, html,web_tasarim,44
+287,  adobe photoshop,web_tasarim,44
+288,ingilizce,web_tasarim,44
+289,kendini gelistiren,web_tasarim,44
+290,iletisim becerine sahip,web_tasarim,45
+291, digital ajans,web_tasarim,45
+292, ingilizce,web_tasarim,45
+293, analitik dusunen,web_tasarim,45
+294,veri tabani,web_tasarim,45
+295, raporlama,web_tasarim,45
+296, html ,web_tasarim,46
+297,javascript,web_tasarim,46
+298, jquery,web_tasarim,46
+299, bootstrap ,web_tasarim,46
+300,skeleton kutuphanesi,web_tasarim,46
+301,sass less islemci kutuphanelsi,web_tasarim,46
+302, photoshop ,web_tasarim,46
+303,visual studio ,web_tasarim,46
+304,iletisim becerine sahip,web_tasarim,46
+305, icerik yonetim sistemleri,web_tasarim,46
+306,javascript,web_tasarim,47
+307, react,web_tasarim,47
+308, mobil uygulama,web_tasarim,47
+309, nesneye dayali kodlama,web_tasarim,47
+310, veri tabani,web_tasarim,47
+311, analitik dusunen,web_tasarim,47
+312, ,web_tasarim,47
+313,grafik tasarim ,web_tasarim,48
+314, adobe illustrator ,web_tasarim,48
+315,adobe photoshop,web_tasarim,48
+316,adobe indesign ,web_tasarim,48
+317,html,web_tasarim,48
+318,adobe premiere dreamweaver,web_tasarim,48
+319,adobe after effects ,web_tasarim,48
+320,kendini gelistiren,web_tasarim,48
+321,javascript,web_tasarim,49
+322, veri guvenligi,web_tasarim,49
+323,nosql,web_tasarim,49
+324,html,web_tasarim,49
+325,ingilizce,web_tasarim,49
+326, angular,web_tasarim,49
+327, react,web_tasarim,49
+328,typescript,web_tasarim,49
+329, iletisimi kuvvetli,web_tasarim,49
+330, ekip calismasi,web_tasarim,49
+331,html,web_tasarim,50
+332, marka tasarimi,web_tasarim,50
+333, photoshop illustrator,web_tasarim,50
+334,html,web_tasarim,51
+335, jquery,web_tasarim,51
+336, javascript,web_tasarim,51
+337,responsive layout ,web_tasarim,51
+338,xhtml,web_tasarim,52
+339, html ,web_tasarim,52
+340,ajax ,web_tasarim,52
+341,javascript ,web_tasarim,52
+342,responsive,web_tasarim,52
+343, mssql,web_tasarim,52
+344,java,web_tasarim,52
+345, swift,web_tasarim,52
+346, android studio,web_tasarim,52
+347, xcode,web_tasarim,52
+348,analitik dusunen,web_tasarim,52
+349,json,web_tasarim,52
+350,ingilizce,web_tasarim,52
+351,html ,web_tasarim,53
+352,ajax ,web_tasarim,53
+353,mysql,web_tasarim,53
+354, jquery,web_tasarim,53
+355, bootstrap,web_tasarim,53
+356, wordpress,web_tasarim,53
+357, linux,web_tasarim,53
+358,rest ,web_tasarim,53
+359,soap ,web_tasarim,53
+360,json ,web_tasarim,53
+361,javascript ,web_tasarim,54
+362,html,web_tasarim,54
+363,wordpress ,web_tasarim,54
+364,office programlari,web_tasarim,55
+365,adobe photoshop ,web_tasarim,55
+366,adope fireworks ,web_tasarim,55
+367,sketch ,web_tasarim,55
+368,sosyal medya,web_tasarim,55
+369,grafik tasarim ,web_tasarim,55
+370,html,web_tasarim,55
+371,online ticaret,web_tasarim,55
+372,javascript,web_tasarim,56
+373, html,web_tasarim,56
+374,devexpress,web_tasarim,56
+375,raporlama,web_tasarim,56
+376, ingilizce,web_tasarim,56
+377, html ,web_tasarim,57
+378,xhtml ,web_tasarim,57
+379,http ,web_tasarim,57
+380,json ,web_tasarim,57
+381,ajax,web_tasarim,57
+382, javascript,web_tasarim,57
+383, jquery,web_tasarim,57
+384,guvenlik,web_tasarim,57
+385,mysql,web_tasarim,58
+386, json,web_tasarim,58
+387,html,web_tasarim,58
+388,tasarim,web_tasarim,58
+389,bootstrap,web_tasarim,58
+390, photoshop  ,web_tasarim,59
+391, ingilizce,web_tasarim,59
+392,ticaret,web_tasarim,59
+393, kategori duzenleme,web_tasarim,59
+394,html,web_tasarim,60
+395, ingilizce,web_tasarim,60
+396,photoshop ,web_tasarim,60
+397,fireworks dreamwevar ,web_tasarim,60
+398,html ,web_tasarim,60
+399,wordpress ,web_tasarim,60
+400,bootstrap,web_tasarim,61
+401, html,web_tasarim,61
+402, react ,web_tasarim,61
+403,redux ,web_tasarim,61
+404,nodejs,web_tasarim,61
+405, extreact ,web_tasarim,61
+406,coffeescript ,web_tasarim,61
+407,typescript ,web_tasarim,61
+408,less ,web_tasarim,61
+409,sass ,web_tasarim,61
+410,soap,web_tasarim,61
+411,rest,web_tasarim,61
+412,html javascript ,web_tasarim,61
+413,react,web_tasarim,61
+414,fonksiyonel programlama,web_tasarim,62
+415, devops,web_tasarim,62
+416,rest ,web_tasarim,62
+417,graphql,web_tasarim,62
+418,node,web_tasarim,62
+419,json,web_tasarim,62
+420, javascript ,web_tasarim,62
+421,ecmascript ,web_tasarim,62
+422,typescript,web_tasarim,62
+423,sass ,web_tasarim,62
+424,less ,web_tasarim,62
+425,postcss,web_tasarim,62
+426,react,web_tasarim,62
+427,javascript,web_tasarim,63
+428, versiyon kontrol ,web_tasarim,63
+429, ingilizce,web_tasarim,63
+430,guvenlik,web_tasarim,64
+431, full stack,web_tasarim,64
+432, nesneye dayali programlama,web_tasarim,64
+433,html,web_tasarim,64
+434,javascript,web_tasarim,64
+435,nosql,web_tasarim,64
+436,javascript,web_tasarim,65
+437, angularjs,web_tasarim,65
+438, react,web_tasarim,65
+439,knockout,web_tasarim,65
+440,backbone,web_tasarim,65
+441,html,web_tasarim,65
+442,jquery,web_tasarim,65
+443,react,web_tasarim,65
+444,typscript,web_tasarim,65
+445, less ,web_tasarim,65
+446,sass ,web_tasarim,65
+447,responsive ,web_tasarim,65
+448,inglizce,web_tasarim,65
+449,frontend developer,web_tasarim,65
+450,html,web_tasarim,66
+451, bootstrap,web_tasarim,66
+452, javascript,web_tasarim,66
+453, jquery,web_tasarim,66
+454,typescript,web_tasarim,66
+455, angularjs,web_tasarim,66
+456, html,web_tasarim,67
+457, javascript,web_tasarim,67
+458, json ,web_tasarim,67
+459,jquery ,web_tasarim,67
+460,soap,web_tasarim,67
+461,photoshop illustrator,web_tasarim,68
+462,wordpress,web_tasarim,68
+463,html,web_tasarim,68
+464,cpanel,web_tasarim,68
+465,javascript,web_tasarim,69
+466,react ,web_tasarim,69
+467,typescript ,web_tasarim,69
+468,html,web_tasarim,69
+469, restful apis,web_tasarim,69
+470, sass ,web_tasarim,69
+471,less,web_tasarim,69
+472, javascript ,web_tasarim,69
+473,jquery ,web_tasarim,69
+474,ajax,web_tasarim,69
+475,soap,web_tasarim,69
+476,rest,web_tasarim,69
+477,json,web_tasarim,69
+478,ingilizce,web_tasarim,69
+479,html sass ,web_tasarim,70
+480,modern javascript ,web_tasarim,70
+481,react ,web_tasarim,70
+482,redux,web_tasarim,70
+483,vuex,web_tasarim,70
+484,photoshop sketch ,web_tasarim,70
+485,yazilim gelistirme,web_tasarim,71
+486, gorsel tasarim,web_tasarim,71
+487, wordpress,web_tasarim,71
+488, html,web_tasarim,71
+489,office programlari,is_analizi_raporlama,72
+490,  microsoft axapta,is_analizi_raporlama,72
+491,iletisim becerilerine sahip,is_analizi_raporlama,72
+492, kendini gelistiren,is_analizi_raporlama,72
+493,veri analizi,is_analizi_raporlama,73
+494, veri analitigi,is_analizi_raporlama,73
+495, musteri yonetimi,is_analizi_raporlama,73
+496, raporlama,is_analizi_raporlama,73
+497,office programlari,is_analizi_raporlama,74
+498, ingilizce,is_analizi_raporlama,74
+499, yazilim gelistirme,is_analizi_raporlama,74
+500,problem analizi ve cozumu,is_analizi_raporlama,74
+501, organizasyon,is_analizi_raporlama,74
+502,iliskisel veri tabani,is_analizi_raporlama,75
+503, office programlari,is_analizi_raporlama,75
+504, yazilim gelistirme,is_analizi_raporlama,75
+505,proje yonetim ,is_analizi_raporlama,75
+506, yazilim test,is_analizi_raporlama,75
+507,analitik dusunen,is_analizi_raporlama,76
+508, surec analizi,is_analizi_raporlama,76
+509, raporlama,is_analizi_raporlama,76
+510,ekip liderligi,is_analizi_raporlama,76
+511,sorumluluk sahibi,is_analizi_raporlama,76
+512,finans,is_analizi_raporlama,77
+513,sayisal analiz,is_analizi_raporlama,77
+514,inglizce,is_analizi_raporlama,77
+515,iletisim becerine sahip,is_analizi_raporlama,77
+516,kendine guvenen,is_analizi_raporlama,77
+517,analiz yapan,is_analizi_raporlama,77
+518,raporlama,is_analizi_raporlama,77
+519,ingilizce,is_analizi_raporlama,78
+520, programlama,is_analizi_raporlama,78
+521,algoritma,is_analizi_raporlama,78
+522,veri tabani,is_analizi_raporlama,78
+523,hata analizi,is_analizi_raporlama,78
+524, office programlari,is_analizi_raporlama,78
+525,urun gelistirme,is_analizi_raporlama,78
+526,iletisim becerilerine sahip,is_analizi_raporlama,78
+527,yazilim gelistirme,is_analizi_raporlama,79
+528,analiz,is_analizi_raporlama,79
+529,ingilizce,is_analizi_raporlama,79
+530,problem yonetimi,is_analizi_raporlama,79
+531,analiz,is_analizi_raporlama,79
+532,raporlama,is_analizi_raporlama,79
+533,fizibilite,is_analizi_raporlama,79
+534,istatistik,is_analizi_raporlama,80
+535,office programlari,is_analizi_raporlama,80
+536,surec analizi,is_analizi_raporlama,80
+537,sigortacilik,is_analizi_raporlama,80
+538,analitik dusunen,is_analizi_raporlama,80
+539,raporlama,is_analizi_raporlama,80
+540,iletisim becerilerine sahip,is_analizi_raporlama,80
+541,veri yorumlama,is_analizi_raporlama,81
+542, analiz,is_analizi_raporlama,81
+543,akis diyagramlari,is_analizi_raporlama,81
+544,sistem tasarimi,is_analizi_raporlama,81
+545,veri yapilari,is_analizi_raporlama,82
+546,office programlari,is_analizi_raporlama,82
+547,surec yonetimi,is_analizi_raporlama,82
+548,analitik dusunen,is_analizi_raporlama,82
+549,ekonoetri,is_analizi_raporlama,83
+550,teknik analiz,is_analizi_raporlama,83
+551,raporlama,is_analizi_raporlama,83
+552,test senaryo,is_analizi_raporlama,84
+553,analiz,is_analizi_raporlama,84
+554,ingilizce,is_analizi_raporlama,84
+555,finans,is_analizi_raporlama,85
+556,analiz,is_analizi_raporlama,85
+557, cbap,is_analizi_raporlama,86
+558,ccba ,is_analizi_raporlama,86
+559,yazilim gelistirme ve test,is_analizi_raporlama,86
+560, analiz,is_analizi_raporlama,86
+561,office programlari,is_analizi_raporlama,86
+562,soap rest servis,is_analizi_raporlama,87
+563, analitik dusunen,is_analizi_raporlama,87
+564,hizli ogrenen,is_analizi_raporlama,87
+565,test,is_analizi_raporlama,87
+566, analiz,is_analizi_raporlama,87
+567,isletim sistemleri,is_analizi_raporlama,88
+568,bulut,is_analizi_raporlama,88
+569,sanallastirma,is_analizi_raporlama,88
+570,guvenlik,is_analizi_raporlama,88
+571,analiz,is_analizi_raporlama,88
+572,kalite yonetim sistemi,is_analizi_raporlama,89
+573, statik dinamik biyomekanik testleri,is_analizi_raporlama,89
+574,ingilizce,is_analizi_raporlama,89
+575,raporlama,is_analizi_raporlama,89
+576,office programlari,is_analizi_raporlama,89
+577,muhasebe,is_analizi_raporlama,90
+578,bankacilik,is_analizi_raporlama,90
+579,analiz,is_analizi_raporlama,90
+580,test,is_analizi_raporlama,90
+581,office programlari,is_analizi_raporlama,91
+582,ingilizce,is_analizi_raporlama,91
+583,word ,is_analizi_raporlama,91
+584,excel ,is_analizi_raporlama,91
+585,access project ,is_analizi_raporlama,91
+586,visio ,is_analizi_raporlama,91
+587,analiz,is_analizi_raporlama,91
+588,veri tabani,is_analizi_raporlama,92
+589,office programlari,is_analizi_raporlama,92
+590,excel,is_analizi_raporlama,92
+591,proje yonetimi,is_analizi_raporlama,92
+592,proje gelistirme,is_analizi_raporlama,92
+593,teknik analiz,is_analizi_raporlama,93
+594,fonksiyonel test,is_analizi_raporlama,93
+595,analitik dusunme,is_analizi_raporlama,93
+596,proje yonetme,is_analizi_raporlama,94
+597,ingilizce,is_analizi_raporlama,94
+598,analitik dusunen,is_analizi_raporlama,94
+599,sorumluluk sahibi,is_analizi_raporlama,94
+600,waterfall,is_analizi_raporlama,94
+601, cbap sertifikasi,is_analizi_raporlama,94
+602,kendini gelistiren,is_analizi_raporlama,94
+603,ingilizce,is_analizi_raporlama,95
+604,analitik dusunen,is_analizi_raporlama,95
+605,problem cozme,is_analizi_raporlama,95
+606,kayit sistemi,is_analizi_raporlama,95
+607,finans,is_analizi_raporlama,96
+608,test,is_analizi_raporlama,96
+609,analiz,is_analizi_raporlama,96
+610,raporlama,is_analizi_raporlama,96
+611,veri tabami,is_analizi_raporlama,96
+612,office programlari,is_analizi_raporlama,97
+613,telekom,is_analizi_raporlama,97
+614,analiz,is_analizi_raporlama,97
+615,raporlama,is_analizi_raporlama,97
+616,raporlama,is_analizi_raporlama,98
+617,analiz,is_analizi_raporlama,98
+618,satis analizi,is_analizi_raporlama,98
+619,raporlama,is_analizi_raporlama,98
+620,stok analizi,is_analizi_raporlama,98
+621, google analytics ,is_analizi_raporlama,98
+622,satis stratejisi,is_analizi_raporlama,98
+623,ingilizce,is_analizi_raporlama,98
+624,surec akis modelleme,is_analizi_raporlama,99
+625,ingilizce,is_analizi_raporlama,99
+626,surec analizi,is_analizi_raporlama,99
+627,ihtiyac analizi,is_analizi_raporlama,99
+628,raporlama,is_analizi_raporlama,99
+629,office programlari,is_analizi_raporlama,99
+630,office programlari,is_analizi_raporlama,100
+631,gida analizi,is_analizi_raporlama,100
+632,kimya,is_analizi_raporlama,100
+633,ekip calismasi,is_analizi_raporlama,100
+634,finans,is_analizi_raporlama,101
+635,veri tabani ,is_analizi_raporlama,101
+636, analiz ,is_analizi_raporlama,101
+637, ihtiyac analizi ,is_analizi_raporlama,101
+638,sistem analizi ,is_analizi_raporlama,101
+639,case agile programlama ,is_analizi_raporlama,101
+640,diagram ,is_analizi_raporlama,101
+641, test case,is_analizi_raporlama,101
+642,elyaf analizi ,is_analizi_raporlama,102
+643, mikroskopik analiz ,is_analizi_raporlama,102
+644, elyaf analizi uzmani,is_analizi_raporlama,102
+645,kimya,is_analizi_raporlama,103
+646,oyuncak analizi,is_analizi_raporlama,103
+647, cocuk kirtasiye urunlerinin guvenlik testleri,is_analizi_raporlama,103
+648,fiziksel test,is_analizi_raporlama,103
+649,ingilizce ,is_analizi_raporlama,103
+650,ingilizce,is_analizi_raporlama,104
+651,analitik dusunen,is_analizi_raporlama,104
+652,sabirli ,is_analizi_raporlama,104
+653, office programlari,is_analizi_raporlama,104
+654, trafik kasko konut dask ferdi kaza winsure sigortacilik paket programi bilgisine sahip ,is_analizi_raporlama,104
+655,sigorta sektoru,is_analizi_raporlama,104
+656,urun tasarimi,is_analizi_raporlama,104
+657,proje yonetimi ,is_analizi_raporlama,104
+658,altyapi tasarimlari,is_analizi_raporlama,104
+659,raporlama,is_analizi_raporlama,104
+660,analiz,is_analizi_raporlama,105
+661,cozum uretebilen,is_analizi_raporlama,105
+662,ekip calismasi,is_analizi_raporlama,105
+663,iletisin becerilerine sahip,is_analizi_raporlama,105
+664,ingilizce,is_analizi_raporlama,105
+665, kimya ,is_analizi_raporlama,106
+666,kontrol laboratuvari,is_analizi_raporlama,106
+667, office programlari,is_analizi_raporlama,106
+668,analitik dusunen,is_analizi_raporlama,106
+669, cozum odakli,is_analizi_raporlama,106
+670, gelisime acik ,is_analizi_raporlama,106
+671,ekip calismasina yatkin ,is_analizi_raporlama,106
+672, analiz,is_analizi_raporlama,107
+673,ingilizce ,is_analizi_raporlama,107
+674, analitik dusunen,is_analizi_raporlama,107
+675,arastirmayi seven,is_analizi_raporlama,107
+676,problem cozmeyi seven ekip calismasina yatkin ,is_analizi_raporlama,107
+677,sonuc odakli ,is_analizi_raporlama,107
+678,takip yonu kuvvetli ,is_analizi_raporlama,107
+679,ticaret ,is_analizi_raporlama,107
+680,test senaryo,is_analizi_raporlama,108
+681,analiz,is_analizi_raporlama,108
+682,ingilizce,is_analizi_raporlama,108
+683,raporlama,is_analizi_raporlama,108
+684,veri analizi,is_analizi_raporlama,108
+685,ekip calismasina yatkin,is_analizi_raporlama,108
+686, analiz ,is_analizi_raporlama,109
+687,raporlama,is_analizi_raporlama,109
+688, sunum ,is_analizi_raporlama,109
+689, cozum uretmeyi seven ,is_analizi_raporlama,109
+690,dinamik ,is_analizi_raporlama,109
+691,sonuc odakli ,is_analizi_raporlama,109
+692,takipci ,is_analizi_raporlama,109
+693,ingilizce ,is_analizi_raporlama,109
+694, gorsel ekran tasarimi,is_analizi_raporlama,109
+695, test senaryosu,is_analizi_raporlama,109
+696, hata sorun yonetim ,is_analizi_raporlama,109
+697,raporlama,is_analizi_raporlama,110
+698, surec analizi ,is_analizi_raporlama,110
+699,test senaryolari,is_analizi_raporlama,110
+700, office programlari,is_analizi_raporlama,110
+701, scrum ,is_analizi_raporlama,110
+702,project server ,is_analizi_raporlama,110
+703,disiplinli calisma ,is_analizi_raporlama,110
+704,talep yonetimi uygulama gelistirme ,is_analizi_raporlama,110
+705,seyahat teknolojileri ,is_analizi_raporlama,110
+706,ingilizce ,is_analizi_raporlama,110
+707, sorumluluk sahibi ,is_analizi_raporlama,110
+708,problem cozme,is_analizi_raporlama,110
+709,arastirmaci ,is_analizi_raporlama,110
+710,yenilikci ,is_analizi_raporlama,110
+711,iletisim becerilerine sahip,is_analizi_raporlama,110
+712,surec analizi,is_analizi_raporlama,111
+713,  modelleme,is_analizi_raporlama,111
+714,uretim sektoru,is_analizi_raporlama,111
+715,ingilizce ,is_analizi_raporlama,111
+716,yazilim,is_analizi_raporlama,111
+717, kodlama ,is_analizi_raporlama,111
+718, office programlari,is_analizi_raporlama,111
+719, ikna yetenegi ,is_analizi_raporlama,111
+720,liderlik ,is_analizi_raporlama,111
+721, analitik dusunen,is_analizi_raporlama,111
+722, cozum odakli,is_analizi_raporlama,111
+723,ekip calismasinda uyumlu,is_analizi_raporlama,111
+724,detay analizi,is_analizi_raporlama,111
+725,raporlama,is_analizi_raporlama,111
+726,ingilizce,is_analizi_raporlama,112
+727,veri yorumlama ,is_analizi_raporlama,112
+728,veri analiz ,is_analizi_raporlama,112
+729, surec akislari,is_analizi_raporlama,112
+730,akis diyagramlari ,is_analizi_raporlama,112
+731,modelleme ,is_analizi_raporlama,112
+732,oracle ,is_analizi_raporlama,112
+733,yazilim gelistirme ,is_analizi_raporlama,112
+734,veri tabani tasarimi ,is_analizi_raporlama,112
+735,sistem testleri,is_analizi_raporlama,112
+736,saglik,is_analizi_raporlama,113
+737,analiz,is_analizi_raporlama,113
+738,ekip calismasina yatkin,is_analizi_raporlama,113
+739,analitik dusunen,is_analizi_raporlama,113
+740,analiz,is_analizi_raporlama,114
+741,,is_analizi_raporlama,114
+742,analiz,is_analizi_raporlama,115
+743, fonksiyonel tasarim ,is_analizi_raporlama,115
+744,test,is_analizi_raporlama,115
+745, sistemsel tasarim,is_analizi_raporlama,115
+746, hata yonetimi ,is_analizi_raporlama,115
+747,java teknolojileri ,is_analizi_raporlama,115
+748, veri tabani,is_analizi_raporlama,115
+749,oracle ,is_analizi_raporlama,115
+750,test senaryosu diyagramlari ,is_analizi_raporlama,115
+751,proje talep yonetimi ,is_analizi_raporlama,115
+752,raporlama,is_analizi_raporlama,115
+753,office programlari,is_analizi_raporlama,115
+754,ingilizce,is_analizi_raporlama,116
+755,saglik,is_analizi_raporlama,116
+756,veri tabani,is_analizi_raporlama,116
+757,sonuc odakli yaklasim,is_analizi_raporlama,116
+758,proje yonetimi,is_analizi_raporlama,116
+759,raporlama,is_analizi_raporlama,116
+760,analitik dusunen,is_analizi_raporlama,116
+761,ingilizce,is_analizi_raporlama,117
+762,scrum.cozum mimarilari,is_analizi_raporlama,117
+763,hybris backoffice kokpitleri ,is_analizi_raporlama,117
+764,surucu ehliyeti,is_analizi_raporlama,118
+765,tibbi laboratuvar ,is_analizi_raporlama,118
+766,bakteri,is_analizi_raporlama,118
+767,office programlari,is_analizi_raporlama,118
+768,veri yapilari,is_analizi_raporlama,119
+769,office programlari,is_analizi_raporlama,119
+770, proje yonetimi,is_analizi_raporlama,119
+771,surec yonetimi,is_analizi_raporlama,119
+772,scrum ,is_analizi_raporlama,119
+773,waterfall ,is_analizi_raporlama,119
+774,raporlama ,is_analizi_raporlama,119
+775,analitik dusunen,is_analizi_raporlama,119
+776, problem cozme yetenegine sahip ,is_analizi_raporlama,119
+777,iletisim becerilerine sahip,is_analizi_raporlama,119
+778,ekip calismasina yatkin,is_analizi_raporlama,119
+779,analiz ,is_analizi_raporlama,119
+780, test ,is_analizi_raporlama,119
+781, akis aktivite diyagramlari,is_analizi_raporlama,119
+782, kullanici senaryolari ,is_analizi_raporlama,119
+783,urunleri test etmek ,is_analizi_raporlama,119
+784,hata bulmak,is_analizi_raporlama,119
+785,ingilizce,is_analizi_raporlama,120
+786,sunum,is_analizi_raporlama,120
+787,raporlama,is_analizi_raporlama,120
+788,etik kurallari,is_analizi_raporlama,120
+789,test yonetimi,is_analizi_raporlama,120
+790,analiz,is_analizi_raporlama,120
+791, sequence diagramlari,is_analizi_raporlama,120
+792,bulut ,is_analizi_raporlama,121
+793, otonom sistemler,is_analizi_raporlama,121
+794,guvenlik ,is_analizi_raporlama,121
+795, saas ,is_analizi_raporlama,121
+796,cizelge olusturmak ,is_analizi_raporlama,121
+797, proje planlama ,is_analizi_raporlama,121
+798, test senaryolari ,is_analizi_raporlama,121
+799,raporlama ,is_analizi_raporlama,121
+800,yazilim cozumleri ,is_analizi_raporlama,122
+801, analiz,is_analizi_raporlama,122
+802,cagri merkezi,is_analizi_raporlama,122
+803, scrum ,is_analizi_raporlama,122
+804,analitik dusunme ,is_analizi_raporlama,122
+805, guclu problem cozme ,is_analizi_raporlama,122
+806,karar verme ,is_analizi_raporlama,122
+807,cikarim yapabilme,is_analizi_raporlama,122
+808,iletisim becerilerine sahip,is_analizi_raporlama,122
+809,ekip calismasina uyumlu,is_analizi_raporlama,122
+810,iletisim becerilerine sahip,is_analizi_raporlama,123
+811, empati kurabilen,is_analizi_raporlama,123
+812,analiz,is_analizi_raporlama,123
+813,tasarim,is_analizi_raporlama,123
+814, odeme sistemleri,is_analizi_raporlama,124
+815, yazilim projeleri,is_analizi_raporlama,124
+816, analiz,is_analizi_raporlama,124
+817,kart temasli temassiz,is_analizi_raporlama,124
+818, cbap ,is_analizi_raporlama,124
+819,office programlari,is_analizi_raporlama,124
+820,agile,is_analizi_raporlama,124
+821, scrum ,is_analizi_raporlama,124
+822, ogrenmeye istekli,is_analizi_raporlama,124
+823, yuksek sorumluluk sahibi,is_analizi_raporlama,124
+824,ingilizce ,is_analizi_raporlama,124
+825,analiz ,is_analizi_raporlama,124
+826,kullanici testleri,is_analizi_raporlama,124
+827,tasarim,is_analizi_raporlama,124
+828, akis diagramlarini ,is_analizi_raporlama,124
+829, smartspy ,is_analizi_raporlama,124
+830, akilli bilet sistemleri ,is_analizi_raporlama,125
+831,otomasyon sistemleri ,is_analizi_raporlama,125
+832,arac takip sistemleri,is_analizi_raporlama,125
+833, kartli gecis sistemleri ,is_analizi_raporlama,125
+834,kisi sayma sistemleri ,is_analizi_raporlama,125
+835,inglizce,is_analizi_raporlama,125
+836, fonksiyonel analiz,is_analizi_raporlama,125
+837,arayuz tasarimi,is_analizi_raporlama,125
+838, yazilim gelistirme surecleri ,is_analizi_raporlama,125
+839,office programlari,is_analizi_raporlama,125
+840, test senaryo teknikleri ,is_analizi_raporlama,125
+841,analitik dusunen,is_analizi_raporlama,125
+842, problem cozme yetkinligine sahip,is_analizi_raporlama,125
+843,iletisim becerilerine sahip,is_analizi_raporlama,125
+844, analizi surec metodolojileri,is_analizi_raporlama,125
+845, proje yonetimi ,is_analizi_raporlama,125
+846,yazilim surec yonetimi ,is_analizi_raporlama,125
+847,raporlama ,is_analizi_raporlama,125
+848,ekip calismasi,is_analizi_raporlama,126
+849,raporlama,is_analizi_raporlama,126
+850,yazilim gelistirme surecleri ,is_analizi_raporlama,126
+851,agile ,is_analizi_raporlama,126
+852,scrum ,is_analizi_raporlama,126
+853,kanban ,is_analizi_raporlama,126
+854,yazilim gelistirme,is_analizi_raporlama,126
+855,analitik dusunen,is_analizi_raporlama,126
+856,analitik dusunen,is_analizi_raporlama,127
+857,office programlari,is_analizi_raporlama,127
+858,inglizce,is_analizi_raporlama,127
+859,sorumluluk sahibi,is_analizi_raporlama,127
+860,iletisim becerilerine sahip,is_analizi_raporlama,128
+861,insan iliskileri kuvvetli,is_analizi_raporlama,128
+862, problem cozme,is_analizi_raporlama,128
+863, analitik dusunene,is_analizi_raporlama,128
+864, sonuc odakli,is_analizi_raporlama,128
+865, raporlama ,is_analizi_raporlama,128
+866,ingilizce ,is_analizi_raporlama,128
+867,ihtiyac analizi,is_analizi_raporlama,128
+868,sistem surec analizi,is_analizi_raporlama,128
+869,analiz,is_analizi_raporlama,129
+870,yazilim gelistirme,is_analizi_raporlama,129
+871,isletim sistemi,is_analizi_raporlama,129
+872, programlama dili java ,is_analizi_raporlama,129
+873,veri tabanlari,is_analizi_raporlama,129
+874, ,is_analizi_raporlama,129
+875, security performance,is_analizi_raporlama,129
+876, availability ,is_analizi_raporlama,129
+877,reliability ,is_analizi_raporlama,129
+878,redundancy ,is_analizi_raporlama,129
+879,sonuc odakli ,is_analizi_raporlama,129
+880,iletisim becerileri kuvvetli,is_analizi_raporlama,129
+881,iletisim becerilerine sahip,is_analizi_raporlama,130
+882,ingilizce,is_analizi_raporlama,130
+883,sonuc odakli,is_analizi_raporlama,130
+884,ekip calismasi,is_analizi_raporlama,130
+885,cozum gelistirme,is_analizi_raporlama,130
+886,yazilim gelistirme metodoloji,is_analizi_raporlama,130
+887,iletisim becerilerine sahip,is_analizi_raporlama,131
+888,kanal yonetimi analisti ,is_analizi_raporlama,131
+889,agile ,is_analizi_raporlama,131
+890,scrum ,is_analizi_raporlama,131
+891,yazilim gelistirme ,is_analizi_raporlama,131
+892,fonksiyonel teknik analiz ,is_analizi_raporlama,131
+893,raporlama,is_analizi_raporlama,131
+894,kavramsal dusunme yetenegi ,is_analizi_raporlama,131
+895,sonuc odakli temsil yetenegin,is_analizi_raporlama,131
+896,ikna etme,is_analizi_raporlama,131
+897,ekip calismasi,is_analizi_raporlama,131
+898,office programlari,is_analizi_raporlama,132
+899,finans ,is_analizi_raporlama,132
+900,sistem gelistirme ,is_analizi_raporlama,132
+901, analitik dusunen,is_analizi_raporlama,132
+902,problem cozme yetkinligine sahip,is_analizi_raporlama,132
+903, oracle ,is_analizi_raporlama,132
+904,raporlama ,is_analizi_raporlama,132
+905, ikna,is_analizi_raporlama,132
+906, iletisim yonu guclu ,is_analizi_raporlama,132
+907,degisime ogrenmeye acik ,is_analizi_raporlama,132
+908,yaratici ,is_analizi_raporlama,132
+909,sonuc odakli,is_analizi_raporlama,132
+910,ekip calismasi,is_analizi_raporlama,132
+911,analiz,is_analizi_raporlama,132
+912,raporlama,is_analizi_raporlama,132
+913,analiz,sap,133
+914,sistemlerin performansini takip etme,sap,133
+915,verim artirici iyilestirmeler,sap,133
+916,  stratejiler gelistirme,sap,133
+917, veril yonetmek,sap,133
+918,anket duzenlemek ,sap,133
+919,veri analizi ,sap,133
+920, pazarlama ,sap,133
+921, raporlama,sap,133
+922,office programlari,sap,133
+923,iletisim becerilerine sahip,sap,133
+924,arastirma yapma,sap,134
+925,pazarlama,sap,134
+926,office programlari,sap,134
+927, autoline sistemi,sap,134
+928, veri isleme,sap,134
+929, retail,sap,135
+930, debug ,sap,135
+931,abap ,sap,135
+932,analitik dusunen,sap,135
+933, problem cozen,sap,135
+934,ingilizce,sap,135
+935,birim yoneticisi ,sap,135
+936,raporlama,sap,135
+937,abap ,sap,136
+938, fiori ,sap,136
+939,javascript,sap,136
+940,yazilim gelistirme ,sap,136
+941,spec ,sap,136
+942, veri mimarisi ,sap,136
+943,test surecleri,sap,136
+944, problem cozme,sap,136
+945,analitik dusunme,sap,136
+946,ingilizce,sap,136
+947,programsal hatalari problemleri cozmek,sap,136
+948,raporlama,sap,136
+949,yazilim gelistirme ,sap,137
+950,analiz,sap,137
+951,veri ambari ,sap,137
+952,business objects ,sap,137
+953,raporlama ,sap,137
+954,veritabani yonetimi ,sap,137
+955,test senaryolari uretme ,sap,137
+956, analitik dusunen ,sap,137
+957, raporlama,sap,137
+958, hana sistemleri ,sap,138
+959,cozum ureten,sap,138
+960, iletisim becerilerine sahip,sap,138
+961,ingilizce,sap,138
+962,talep beklentilerin yonetilmesi ,sap,138
+963,raporlama ,sap,138
+964,ingilizce ,sap,139
+965,spss ,sap,139
+966,python,sap,139
+967, veri madenciligi,sap,139
+968, siniflandirma,sap,139
+969, kumeleme ,sap,139
+970, veri yonetimi,sap,139
+971,veri tabani,sap,139
+972,office programlari,sap,139
+973, proje yonetimi,sap,139
+974, abap,sap,140
+975,ingilizce,sap,140
+976,yurtici yurtdisi seyahat ,sap,140
+977,ekip calismasina yatkin ,sap,140
+978, analitik dusunen ,sap,140
+979,kendini geistirmeye acik c,sap,140
+980,guncel gelismeleri takip etmek,sap,141
+981, risklerle ilgili etkin onlem almak,sap,141
+982, ingilizce ,sap,141
+983,abap,sap,142
+984,sapui ,sap,142
+985, script smart forms,sap,142
+986,slcm ,sap,142
+987,ingilizce,sap,142
+988,analitik dusunen,sap,142
+989, problem cozme yetkinligine sahip ,sap,142
+990, iletisim becerilerine sahip ,sap,142
+991,raporlama,sap,142
+992,analiz ,sap,143
+993,hata ayiklama,sap,143
+994,  abap ,sap,143
+995,ekip calismasina yatkin,sap,143
+996, iletisim becerilerine sahip,sap,143
+997,analitik dusunen,sap,143
+998,problem cozme yetenegine sahip ,sap,143
+999,zaman yonetiminde yetkin,sap,143
+1000, arastirmaci,sap,143
+1001, sorumluluk sahibi,sap,143
+1002, ingilizce,sap,143
+1003,office programlari,sap,143
+1004,scrum ,sap,143
+1005,mulakat anket saha analizi ,sap,143
+1006,focus toplantilar,sap,143
+1007,iveri akis diyagramlari,sap,143
+1008,analitik dusunen,sap,144
+1009,ekip calismasina yatkin ,sap,144
+1010,iletisim becerilerine sahip,sap,144
+1011,  ogrenmeye acik ,sap,144
+1012,surec analizi ,sap,144
+1013, modul danismanligin,sap,145
+1014, full cycle proje deneyimi ,sap,145
+1015,donusum surecleri,sap,145
+1016,analitik dusunen,sap,145
+1017,  iletisim yetenegine sahip ,sap,145
+1018,ingilizce ,sap,145
+1019,esnek calisma saatlerine uyumlu ,sap,145
+1020,yurtici yurtdisi engeli olmayan,sap,145
+1021,office programlari,sap,146
+1022,full cycle ,sap,146
+1023,ingilizce ,sap,146
+1024, iletisim becerilerine sahip,sap,146
+1025, analitik dusunen,sap,146
+1026,ekip calismasina yatkin ,sap,146
+1027,analiz ,sap,146
+1028,raporlama,sap,146
+1029,finansal,sap,147
+1030, lojistik ,sap,147
+1031,ingilizce ,sap,147
+1032, esnek calisma saatlerine uyumlu y,sap,147
+1033,urt yurt disi seyahat engeli olmayan,sap,147
+1034, ekip calismasina yatkin ,sap,147
+1035,analitik dusunen,sap,147
+1036,finans ,sap,148
+1037,muhasebe,sap,148
+1038, raporlama ,sap,148
+1039,esnek calisma saatleri,sap,148
+1040,iletisim becerilerine sahip ,sap,148
+1041,analitik dusunen ,sap,148
+1042,ehliyet,sap,148
+1043, aktif arac kullanabilen ,sap,148
+1044,seyahat engeli olmayan,sap,148
+1045, ingilizce ,sap,148
+1046, analitik ,sap,149
+1047,google adwords,sap,149
+1048, google analytics ,sap,149
+1049,adobe photoshop ,sap,149
+1050,adobe illustrator ,sap,149
+1051,adobe indesign,sap,149
+1052, analitik dusunen,sap,149
+1053, veri ambari ,sap,149
+1054, office programlari,sap,149
+1055,veri tabani,sap,149
+1056,raporlanma,sap,149
+1057,veri zenginlestirme ,sap,149
+1058,siparis saha ziyaret raporu ,sap,149
+1059,google adwords,sap,150
+1060, google analytics ,sap,150
+1061,dijital trendleri takip eden ,sap,150
+1062,adobe photoshop,sap,150
+1063, adobe illustrator ,sap,150
+1064,adobe indesign ,sap,150
+1065, analitik dusunen,sap,150
+1066,veri ambari ,sap,150
+1067, office programlari,sap,150
+1068,segment stratejileri,sap,150
+1069,raporlama,sap,150
+1070,veri zenginlestirme ,sap,150
+1071, crystal report programi,sap,151
+1072, office programlari,sap,151
+1073, analitik dusunen,sap,151
+1074, iletisim becerilerine sahip,sap,151
+1075, ingilizce ,sap,151
+1076,optimize etme ,sap,151
+1077,modul gelistirme,sap,151
+1078, test egitim destek sureclerin,sap,151
+1079,raporlama,sap,151
+1080,analitik dusunen,sap,152
+1081,veri ambari,sap,152
+1082, office programlarin,sap,152
+1083,microstrategy,sap,152
+1084, proje yonetimi ,sap,152
+1085,musteri anahtar performans gostergelerin raporlanmasi ,sap,152
+1086,musteri veri kalitesinin korunmasi ,sap,152
+1087, veri zenginlestirme ,sap,152
+1088, kisiye ozel kampanyalar ,sap,152
+1089,ingilizce,sap,153
+1090, almanca ,sap,153
+1091,shift sistemine uyumlu ,sap,153
+1092, sorumluluk sahib,sap,153
+1093,i analitik dusunen,sap,153
+1094,sistem yonetimi ,sap,153
+1095,operating system management,sap,153
+1096, database management ,sap,153
+1097,technical support ,sap,153
+1098, canias deneyimi bulunan ,sap,154
+1099,troia sorgulama diline hakim,sap,154
+1100,ingilizce ,sap,154
+1101,analitik dusunen ,sap,154
+1102,ekip calismasina yatkin,sap,154
+1103,surec analizi,sap,154
+1104, reports publisher gelistirme ,sap,155
+1105, java ,sap,155
+1106,ekip calismasina yatkin,sap,155
+1107,oracle ,sap,155
+1108, raporlama,sap,155
+1109, plsql publisher discoverer ,sap,155
+1110,iletisim becerilerine sahip,sap,156
+1111,uretim surecleri ,sap,156
+1112,ingilizce ,sap,156
+1113,ekip calismasina yatkin,sap,156
+1114, gelisime acik ,sap,156
+1115,esnek calisma saatlerine uyum saglayan,sap,156
+1116,analiz,sap,156
+1117,musteri beklentilerinin arastirilmasi ,sap,156
+1118,kavramsal tasarim ,sap,156
+1119,raporlama,sap,156
+1120,office programlari,sap,157
+1121,,sap,157
+1122,ingilizce ,sap,157
+1123,ogrenmeye acik,sap,157
+1124, analitik,sap,157
+1125, trendleri takip eden ,sap,157
+1126,iletisim becerilerine sahip,sap,158
+1127, analiz ,sap,158
+1128,raporlama ,sap,158
+1129,sunum ,sap,158
+1130,office programlari,sap,158
+1131,veritabani ,sap,158
+1132,webservis,sap,158
+1133, microsoft dynamics,sap,158
+1134, powerbi,sap,158
+1135, ingilizce,sap,158
+1136,raporlama,sap,158
+1137,successfactors modul danismani ,sap,159
+1138,ingilizce ,sap,159
+1139,ekip calismasina yatkin ,sap,159
+1140,analitik dusunen,sap,159
+1141, yeni teknolojileri takip eden,sap,159
+1142, gelisime acik,sap,159
+1143,  sonuc odakli,sap,159
+1144, yurt yurt disi seyahat engeli bulunmayan,sap,159
+1145,raporlama,sap,159
+1146,modul danismani ,sap,160
+1147,ingilizce,sap,160
+1148,raporlama,sap,160
+1149,iletisim becerilerine sahip,sap,160
+1150, ekip calismasina yatkin ,sap,160
+1151,analitik dusunen,sap,160
+1152,proaktif bakis acisina sahip ,sap,160
+1153,sonuc odakli,sap,160
+1154, yurt yurt disi seyahat engeli bulunmayan,sap,160
+1155,test egitim destek sureclerin,sap,160
+1156,raporlama,sap,160
+1157,hata ayiklama,sap,161
+1158,abap ,sap,161
+1159,ingilizce,sap,161
+1160, ekip calismasina yatkin ,sap,161
+1161,iletisim becerileri gelismis,sap,161
+1162, arastirmaci ,sap,161
+1163,ogrenmeye acik ,sap,161
+1164,analitik dusunce yapisina sahip ,sap,161
+1165,cozum odakli,sap,161
+1166,ithalat bilgisine sahip,sap,161
+1167,raporlama,sap,162
+1168, server uzerinde sorgu view store procedure function yazabilecek duzeyde bilgi sahibi,sap,162
+1169,windows server sistemlerine hakim ,sap,162
+1170,ekip calismasina yatkin ,sap,162
+1171, organizasyon becerisi yuksek ,sap,162
+1172,excel uzerinde otomatik calisan raporlar hazirlanmasi,sap,162
+1173,ingilizce,sap,163
+1174, office programlari ,sap,163
+1175,spss,sap,163
+1176, yogun calisma temposuna uyum saglayabilen ,sap,163
+1177,seyahat engeli bulunmayan,sap,163
+1178,musteri davranislarini analiz eden,sap,163
+1179,sepet analizleri ,sap,163
+1180,musteri kaybi analizleri,sap,163
+1181, veri madenciligi ,sap,163
+1182,mailing operasyonlarini yonetmek,sap,163
+1183, raporlama,sap,163
+1184,veri madenciligi ,sap,164
+1185,ingilizce,sap,164
+1186,office programlari,sap,164
+1187,veri cozumleme,sap,164
+1188,gereksinim analizleri yapabilen ,sap,164
+1189,iletisim becerilerine sahip,sap,164
+1190, sadakat programi ,sap,164
+1191,veri tabani,sap,164
+1192,surec yonetimi ,sap,165
+1193,surec analizi ,sap,165
+1194,ingilizce,sap,165
+1195,sureclerin iyilestirilmesi,sap,165
+1196,fonksiyonel tasarim ,sap,165
+1197,teknik tasarim t,sap,165
+1198,est dokumanlarinin hazirlanmasi ,sap,165
+1199, iyilestirme onerilerinde bulunmak ,sap,165
+1200,yazilim gelistirme sureci,sap,165
+1201,raporlama,sap,165
+1202,data classification ,sap,165
+1203,ingilizce,sap,166
+1204, veri madenciligi ,sap,166
+1205,analitik dusunen,sap,166
+1206, problem cozme becerisi olan ,sap,166
+1207,verileri analiz ,sap,166
+1208,ekip calismasina yatkin ,sap,166
+1209,yogun stresli calisma temposuna ayak uydurabilen ,sap,166
+1210,raporlama,sap,166
+1211, sunum,sap,166
+1212, google analytics,sap,166
+1213, mail marketing yonetimi,sap,166
+1214, olcumleme raporlama yapilmasi ,sap,166
+1215, veri analiz ,sap,166
+1216,perakende sektorunde tecrubeli ,sap,167
+1217,analitik ,sap,167
+1218,analiz yetenegine sahip,sap,167
+1219, office programlari,sap,167
+1220, iletisim becerilerine sahip,sap,167
+1221,seyahat engeli bulunmayan ,sap,167
+1222,raporlama,sap,167
+1223, esnek calisma saatlerine uyabilecek ,sap,168
+1224,arastirmac,sap,168
+1225,i hizli analitik dusunebilen,sap,168
+1226, detaylara onem veren ,sap,168
+1227,sonuc odakli ,sap,168
+1228,proaktif ,sap,168
+1229, siparis yonetimi ,sap,168
+1230,sevkiyat stok yonetimi,sap,168
+1231, faturalama,sap,168
+1232, fiyatlama ,sap,168
+1233,kampanya satis ,sap,168
+1234, talep istekleri koordine eden,sap,168
+1235,abap ,sap,168
+1236, sistemsel tasarimin sureclerinin iyilestirmesin,sap,168
+1237,raporlama,sap,168
+1238,abap,sap,169
+1239,ingilizce ,sap,169
+1240,ekip calismasina yatkin,sap,169
+1241, detaylara onem veren ,sap,169
+1242,sonuc odakli ,sap,169
+1243,proaktif ,sap,169
+1244,analitik dusunen,sap,169
+1245,ingilizce,sap,170
+1246, problemleri analiz edip sistematik cozum uretebilen,sap,170
+1247, seyahat engeli olmayan ,sap,170
+1248,butce takibi,sap,170
+1249,raporlama,sap,171
+1250,insan iliskileri kuvvetli ,sap,171
+1251,ekip calismasina yatkin ,sap,171
+1252,analitik dusunen,sap,171
+1253,lojistik ,sap,172
+1254, full cycle,sap,172
+1255,proje yonetimi,sap,172
+1256, kaynaklarin verimli kullanimi,sap,172
+1257,profesyonel deneyim sahibi ,sap,172
+1258,ekip calismasina yatkin,sap,172
+1259,analitik dusunen,sap,172
+1260, arastirmayi seven,sap,172
+1261, cozum odakli,sap,172
+1262,iletisim yonu kuvvetli,sap,172
+1263,ingilizce,sap,172
+1264,teknik ekiplerle iletisime gecmek,sap,173
+1265, analiz,sap,173
+1266, tasarim ,sap,173
+1267,test ,sap,173
+1268,yazilim gelistirme yasam dongusunun asamalarini desteklemek ,sap,173
+1269,proje yonetimi ,sap,173
+1270,analiz ,sap,173
+1271,problem cozme becerisi yuksek,sap,173
+1272, sonuc odakli ,sap,173
+1273,proaktif ,sap,173
+1274,sorumluluk sahibi ,sap,173
+1275,dikkatli ,sap,173
+1276,detaylara onem,sap,173
+1277, uretim surecleri konusunda bilgili,sap,174
+1278,  modul uzmani ,sap,174
+1279,analist,sap,174
+1280, analitik dusunen,sap,174
+1281,seyahat engeli bulunmayan,sap,174
+1282,raporlama,sap,174
+1283, cozum onerilerinde bulunma,sap,174
+1284,analitik dusunen,sap,175
+1285,yaratici ,sap,175
+1286,ogrenmeye acik,sap,175
+1287, ekip calismasina yatkin,sap,175
+1288, sonuc odakli ,sap,175
+1289,muhasebe,sap,175
+1290, finans ,sap,175
+1291,depo yonetimi ,sap,175
+1292,server ,sap,175
+1293, office programlari,sap,175
+1294, iyilestirme gelistirme bakis acisina sahip ,sap,175
+1295,sonuc odakli ,sap,175
+1296,yeni teknolojileri takip eden ,sap,175
+1297, sigara kullanmayan ,sap,175
+1298, entegrasyon ,sap,176
+1299, tecrubeli ,sap,176
+1300, hizli kavrama yetenegi olan,sap,176
+1301,java,sap,176
+1302,ingilizce ,sap,176
+1303,full cycle proje deneyimi olan,sap,177
+1304, seyahat engeli bulunmayan ,sap,177
+1305,ingilizce ,sap,177
+1306,ekip calismasina yatkin ,sap,177
+1307,kendini gelistiren,sap,177
+1308,iletisim becerilerine sahip,sap,177
+1309, detaylara onem veren,sap,177
+1310, sonuc odakli ,sap,177
+1311,proaktif ,sap,177
+1312,analitik dusunen,sap,177
+1313,zaman yonetiminde hassas olan,sap,177
+1314, esnek calisma saatlerine uyabilecek ,sap,177
+1315,optimizasyon,sap,177
+1316,proje yoneticisi deneyimine sahip ,sap,178
+1317,office programlari ,sap,178
+1318,microsoft dynamics ,sap,178
+1319,raporlama,sap,178
+1320, ,sap,178
+1321,ingilizce,sap,178
+1322,iyilestirme ,sap,178
+1323,cozum ureten,sap,178
+1324,letisim becerilerine sahip,sap,178
+1325, sunum becerileri gelismis ,sap,178
+1326,analitik dusunen ,sap,178
+1327, problem cozme becerisi yuksek ,sap,178
+1328,gelisen trendleri takip eden,sap,178
+1329, yenilikci projeler getiren,sap,178
+1330, ,sap,178
+1331,veri analizleri yapmak ,sap,178
+1332,ingilizce ,sap,179
+1333,daha once devreye alma projesi yonetmis,sap,179
+1334, uretim,sap,179
+1335, planlama ,sap,179
+1336,uretim surec yonetimi ,sap,179
+1337, server veritabani ,sap,179
+1338,ekip calismasina yatkin ,sap,180
+1339,iletisim becerileri olan,sap,180
+1340, insan iliskileri kuvvetli ,sap,180
+1341,problem cozme yetenegine sahip ,sap,180
+1342,proaktif ,sap,180
+1343,sonuc odakli ,sap,180
+1344, analitik dusunen,sap,180
+1345,raporlama ,sap,180
+1346,yeni teknolojileri yakindan takip eden ,sap,180
+1347,kendini gelistirmeye acik ,sap,180
+1348,karlilik analizi ,sap,181
+1349,raporlama ,sap,181
+1350,analitik dusunen,sap,181
+1351, sonuc odakli ,sap,181
+1352,detaylara hakim ,sap,181
+1353,iletisim becerilerine sahip ,sap,181
+1354,kullanicilara destek egitim vermek ,sap,182
+1355, kanuni mevzuati takip edip mikro versiyon guncellemelerini yapmak,sap,182
+1356, muhasebe,sap,182
+1357,iletisim becerilerine sahip,sap,182
+1358,ingilizce,sap,183
+1359,yogun tempoya ayak uydurabilen,sap,183
+1360, esnek calisma saatlerine uyum saglayabilen,sap,183
+1361, iletisim becerisine sahip,sap,183
+1362,cozum odakli,sap,183
+1363,abap ,sap,183
+1364,ihtiyac analizi ,sap,183
+1365, fizibilite,sap,183
+1366,kaynaklarin dogru sekilde kullanilmasinin saglanmasi ,sap,183
+1367,onceliklendirme yapma,sap,183
+1368, veri aktarimini tasarlamak ,sap,183
+1369, egitim belgelerini hazirlamak ,sap,183
+1370, analiz dokumantasyonun hazirlanmasi,sap,183
+1371, test senaryolarini olusturmak ,sap,183
+1372, finans ,sap,183
+1373,anahtar kullanicilara destek verilmesi ,sap,184
+1374,ihtiyac duyulan program raporlarin hazirlanmasi,sap,184
+1375,  calismalarin koordinasyonu ,sap,184
+1376,modul tecrubesi olan,sap,184
+1377, analitik bakis acisina sahip,sap,184
+1378, sonuc odakli ,sap,184
+1379,problem cozme yetkinligi olan ,sap,184
+1380,iletisim becerisine sahip ,sap,184
+1381,ekip calismasina yatkin ,sap,184
+1382,esnek calisma saatlerine uyum saglayabilen,sap,184
+1383,abap uzmani,sap,185
+1384, kampanya yonetimi ,sap,186
+1385,raporlama,sap,186
+1386, ingilizce,sap,186
+1387,office programlari ,sap,186
+1388, spss ,sap,186
+1389, organizasyon becerisine sahip ,sap,186
+1390,musteri memnuniyeti yaklasimini benimsemis,sap,186
+1391, musteri davranislarini analiz ederek analizler dogrultusunda gelistirme sunan,sap,186
+1392, sepet analizi ,sap,186
+1393,musteri kaybi analizi,sap,186
+1394, veri madenciligi ,sap,186
+1395,musteri hareketlerini analiz etmek ,sap,186
+1396,office programlari,sap,187
+1397, raporlama ,sap,187
+1398,analiz ,sap,187
+1399,sunum ,sap,187
+1400,analitik dusunen,sap,187
+1401,  pazarlama,sap,187
+1402, ekip calismasinda basarili,sap,187
+1403, iletisim becerilerine sahip ,sap,187
+1404,insan iliskileri kuvvetli ,sap,187
+1405,proje yonetimi,sap,187
+1406, veri  tabanini ,sap,187
+1407, veri kalitesini iyilestirmek ,sap,187
+1408, kampanya sonuclarini raporlamak analizlerini yapmak,sap,187
+1409,musteri analiz raporlarini olusturmak ,sap,187
+1410,raporlama,sap,187
+1411,ingilizce ,sap,188
+1412,ekip calismasina yatkin,sap,188
+1413, esnek calisma saatlerine uyum saglayabilecek,sap,188
+1414, yurtici yurtdisi seyahat engeli olmayan,sap,188
+1415, analitik dusunen,sap,188
+1416, kendini gelistirmeye acik ,sap,188
+1417,modul sorumlusu,sap,189
+1418, ingilizce ,sap,189
+1419,office programlari,sap,189
+1420,iletisim becerisi guclu,sap,189
+1421, proaktif ,sap,189
+1422,sonuc odakli ,sap,189
+1423,ekip calismasina yatkin ,sap,189
+1424,planlama,sap,189
+1425, takip ,sap,189
+1426,raporlama,sap,189
+1427, seyahat engeli olmayan,sap,189
+1428,veri bakimi,sap,189
+1429,musteri analizi,sap,190
+1430, veri analizi ,sap,190
+1431,veri madenciligi,sap,190
+1432, raporlama ,sap,190
+1433,sunum ,sap,190
+1434,script yazma,sap,190
+1435,office programlari,sap,190
+1436,musteri davranis takibi ,sap,190
+1437,verilerin takip edilmesi ,sap,190
+1438, gorsellestirme,sap,190
+1439,  spss statistics ,sap,190
+1440,spss modeler ,sap,190
+1441, python ,sap,190
+1442,google analytics ,sap,190
+1443,adobe analytics countly ,sap,190
+1444, veri tabani,sap,190
+1445,verilerin toplanmasi ,sap,190
+1446,abap ,sap,191
+1447,ingilizce ,sap,191
+1448,fiori ,sap,191
+1449,yazilim gelistirme ,sap,191
+1450,veri mimarisi,sap,191
+1451,  problem cozmede yaratici ,sap,191
+1452,analitik dusunen,sap,191
+1453,ingilizce,sap,192
+1454,maliyet karlilik analizi,sap,192
+1455, muhasebe ,sap,192
+1456,finans ,sap,192
+1457, analitik dusunen,sap,192
+1458, iletisim becerileri yuksek ,sap,192
+1459,zaman yonetiminde basarili ,sap,192
+1460,arastirmaci,sap,192
+1461, sorumluluk sahibi ,sap,192
+1462,raporlama ,sap,192
+1463, maliyet analizlerini yaparak urunun maliyet detaylarini analiz etmek ,sap,192
+1464,finans,sap,193
+1465,muhasebe,sap,193
+1466, ingilizce ,sap,193
+1467, ekip calismasina yatkin,sap,193
+1468,analitik dusunen,sap,193
+1469,  iletisim becerilerine sahip,sap,193
+1470, zaman yonetiminde basarili,sap,193
+1471,  office programlari,sap,193
+1472,arastirmaci ,sap,193
+1473,sorumluluk sahibi ,sap,193
+1474, modul uzmani,sap,193
+1475,modul bilgisi bulunan,sap,194
+1476, ekip calismasina yatkin,sap,194
+1477, iletisim becerisine sahip ,sap,194
+1478,ingilizce,sap,194
+1479, ihtiyaclari dogrultusunda cozum uretebilen,sap,194
+1480, problemlerin analizi ,sap,194
+1481,fonksiyonel danisman ,sap,195
+1482, ingilizce ,sap,195
+1483,kendini gelistirmeye acik ,sap,195
+1484,analitik dusunen,sap,195
+1485, ekip calismasina yatkin,sap,195
+1486,retail,sap,196
+1487,office programlari,sap,196
+1488,kendini gelistirmeye acik ,sap,196
+1489,analitik dusunen,sap,196
+1490, problem cozumu koordinasyon becerileri gelismis ,sap,196
+1491,iletisim becerisine sahip ,sap,196
+1492,cobit disiplininde calismis,sap,196
+1493, satinalma depo yonetimi ,sap,196
+1494,kalite sevkiyat sureclerine hakim ,sap,196
+1495,perakende sektoru,sap,196
+1496, stok depo yonetimi,sap,196
+1497, retail office programlarina ,sap,197
+1498,ogrenmeye kendini gelistirmeye acik ,sap,197
+1499,analitik dusunen,sap,197
+1500, problem cozumu koordinasyon becerileri gelismis ,sap,197
+1501, iletisim becerisine sahip ,sap,197
+1502,cobit disiplininde calismis ,sap,197
+1503,depo yonetimi ,sap,197
+1504,kalite ,sap,197
+1505,sevkiyat ,sap,197
+1506,satin alma ,sap,197
+1507, perakende sektoru,sap,197
+1508, finans ,sap,197
+1509,maliyet muhasebesi ,sap,197
+1510,duran varlik yonetimi ,sap,197
+1511,karlilik gayrimenkul yonetimi,sap,197
+1512,  proje yoneticisi ,sap,197
+1513, full cycle ,sap,198
+1514,analitik dusunen,sap,198
+1515,musteri ihtiyaclari dogrultusunda cozum uretebilen ,sap,198
+1516,ekip calismasina yatkin,sap,198
+1517,  iletisim becerileri olan,sap,198
+1518, ingilizce ,sap,198
+1519,esnek calisma saatlerine uyum gosterebilen,sap,198
+1520,yurtici seyahat engeli olmayan,sap,198
+1521,modul deneyim sahibi,sap,199
+1522,modul bilgisi olan ,sap,199
+1523,iletisim becerilerine sahip ,sap,199
+1524,ingilizce,sap,199
+1525,satis sevkiyat fiyatlandirma ,sap,199
+1526,faturalama ,sap,199
+1527,irsaliye sureclerindeki tasarimlari yapmak,sap,199
+1528, fatura,sap,199
+1529, arsiv fatura,sap,199
+1530,  abap uzmani birlikte calismak ,sap,199
+1531,sureclerinin analiz edilmesi ,sap,199
+1532,problemlerin analiz edilmesi,sap,199
+1533,ingilizce,sap,200
+1534,almanca,sap,200
+1535,yazilim gelistirme tecrubesine sahip,sap,200
+1536, mssql ,sap,200
+1537, troia yazilim diline hakim ,sap,200
+1538,android isletim sistem,sap,200
+1539,analitik ,sap,200
+1540,dinamik ,sap,200
+1541,cozum odakli ,sap,200
+1542,hedef odakli ,sap,200
+1543,neden sonuc iliskisini kurabilen ,sap,200
+1544,yuksek tempolu calisma ortamina uyum saglayabilen,sap,200
+1545, merakli ,sap,200
+1546,arastirmaci ,sap,200
+1547,sorgulayici,sap,200
+1548, proje yonetim tecrubesine sahip ,sap,200
+1549,kendini gelistirmeye istekli ,sap,200
+1550,sektorel gelismeleri takip eden ,sap,200
+1551,surekli iyilestirme yaklasimina sahip ,sap,200
+1552,grup yoneticisi,sap,201
+1553,  abap,sap,201
+1554,basis ,sap,201
+1555, fiori ,sap,201
+1556,abap object orient ,sap,201
+1557,servis olusturma,sap,201
+1558, consume etme ,sap,201
+1559,sistem mimarisi yonetimi konusunda tecrubeli ,sap,201
+1560,analitik dusunen,sap,201
+1561, problem cozme becerisi yuksek ,sap,201
+1562,guclu iletisim yetenegi olan ,sap,201
+1563,yeni teknolojileri konusunda bilgi sahibi ,sap,201
+1564, ogrenmeye acik,sap,201
+1565, abap,sap,202
+1566, webdynpro ,sap,202
+1567,brfplus ,sap,202
+1568, analitik dusunen,sap,202
+1569,ingilizce ,sap,202
+1570,esnek calisma saatlerine uyabilecek ,sap,202
+1571,ekip calismasina yatkin,sap,202
+1572,seyahat engeli olmayan ozellikle ,sap,202
+1573,ingilizce,sap,203
+1574,otomotiv sektoru,sap,203
+1575, proje yonetimi ,sap,203
+1576, ekip calismasina yatkin ,sap,203
+1577, iletisim becerisine sahip,sap,203
+1578, analitik dusunen,sap,203
+1579, problem cozme ,sap,203
+1580,karar alma ,sap,203
+1581,planlama becerisine sahip ,sap,203
+1582,  projelerin surec takibi,sap,203
+1583, almanca,sap,204
+1584, danisman,sap,204
+1585,seyahat etme kisiti olmayan ,sap,204
+1586,uluslararasi projelerde calismak isteyen ,sap,204
+1587,deneyimli ,sap,204
