@@ -1,7 +1,4 @@
-# YETENEKLERIN-SINIFLANDIRILMASI
-##############################################################
-##############YETENEKTEN MESLEK GRUBU CIKARMA#################
-##############################################################
+# YETENEKTEN MESLEK GRUBUNU BULMA
 
 Bu calismada farkli kelime vektorinin cos benzerliklerine meslek gruplari icerisinde yetenek gruplari olusturularak, yeni yetenegin hangi meslek grubuna dahil oldugunu bu yetenek gruplarina benzerliklerine puanlama yapilarak bulunmustur.
 
